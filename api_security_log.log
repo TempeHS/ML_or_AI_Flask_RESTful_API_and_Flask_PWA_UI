@@ -1,0 +1,9 @@
+2024-11-08 21:37:11,431 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://10.1.1.199:3000
+2024-11-08 21:37:11,432 [33mPress CTRL+C to quit[0m
+2024-11-08 21:37:11,436  * Restarting with stat
+2024-11-08 21:37:11,830  * Debugger is active!
+2024-11-08 21:37:11,835  * Debugger PIN: 230-681-397
+2024-11-08 21:39:39,719 127.0.0.1 - - [08/Nov/2024 21:39:39] "[35m[1mPOST /add_extension HTTP/1.1[0m" 201 -
